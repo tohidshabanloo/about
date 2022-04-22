@@ -18,9 +18,9 @@
 - 📫 Reach me: [instagram.com/tohidshabanloo](https://instagram.com/tohidshabanloo)
 - ⚡️ Fun fact: I'm a huge fan of Couchsurfing
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://ibb.co/wY1Jn9B" alt="Coder GIF">
-</p>
+</p> -->
 
  
 <p align="center">
