@@ -15,7 +15,7 @@
 - ⚙️ I use daily: `.js`, `.html`, `.css`,`.psd`, `.ai`
 - 🌍 I'm mostly active within the **Discord Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 💬 Ping me about **design**, **react**, **Discord**, **development**, **design thinking**
 - 📫 Reach me: [instagram.com/tohidshabanloo](https://instagram.com/tohidshabanloo)
 - ⚡️ Fun fact: I'm a huge fan of Muse
 
