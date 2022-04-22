@@ -19,7 +19,9 @@
 - 📫 Reach me: [instagram.com/tohidshabanloo](https://instagram.com/tohidshabanloo)
 - ⚡️ Fun fact: I'm a huge fan of Muse
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
   
   <summary><b>✨&nbsp;&nbsp;More&nbsp;Info</b></summary>
   <br/>
