@@ -6,7 +6,7 @@
 ##### NOW
 
 - ✨ Crafted last [backpacker](https://tohidsh.com) website;
-- :flag_nl:  Planing the "Netherlands";
+- 🇳🇱 Planing the "Netherlands";
 - 🍑 What about this?
 
 ##### BIO
