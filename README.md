@@ -46,7 +46,7 @@ Hi there , I am Tohid Shabanloo 😌
   
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
   
- How to reach me: faeze.moradi8993@gmail.com
+ How to reach me: tshabanloo@hotmail.com
   
   <br>
   
@@ -64,10 +64,10 @@ Hi there , I am Tohid Shabanloo 😌
   
   <br>
   
-<a href="https://www.instagram.com/faezemoradi_developer/">
+<a href="https://www.instagram.com/tohidshabanloo/">
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a> 
-<a href="https://www.linkedin.com/in/faeze-moradi-1a81581b4/">
+<a href="https://www.linkedin.com/in/tohidshabanloo/">
 <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>   
   </div>
@@ -86,10 +86,10 @@ Hi there , I am Tohid Shabanloo 😌
     
 <br>
     
-<img src="https://github-readme-stats.vercel.app/api?username=faezemoradi8993&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=tohidshabanloo&show_icons=true&theme=dark" />
 <br>
 <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faezemoradi8993&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tohidshabanloo&theme=github_dark" />
     
 
 
