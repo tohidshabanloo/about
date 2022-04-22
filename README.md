@@ -1,5 +1,25 @@
 
+### Hi there 👋
 
+#### I'm a Developer working in Tehran, Iran.
+
+##### NOW
+
+- ✨ Crafted last [backpacker](https://tohidsh.com) website;
+- 🇵🇹 Planing the "Netherlands";
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at **Natasun Company**
+- ⚙️ I use daily: `.js`, `.html`, `.css`,`.psd`, `.ai`
+- 🌍 I'm mostly active within the **Discord Community**
+<!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 📫 Reach me: [instagram.com/tohidshabanloo](https://instagram.com/tohidshabanloo)
+- ⚡️ Fun fact: I'm a huge fan of Muse
+- 
 📊 &nbsp;**This week I spent my time on**
 [![Anurag's GitHub stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=tohidshabanloo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <details>
@@ -181,26 +201,7 @@ Hi there , I am Tohid Shabanloo 😌
 
 
 
-### Hi there 👋
 
-#### I'm a Developer working in Tehran, Iran.
-
-##### NOW
-
-- ✨ Crafted last [backpacker](https://tohidsh.com) website;
-- 🇵🇹 Planing the "Netherlands";
-- 🍑 What about this?
-
-##### BIO
-
-- 🏢 I'm currently working at **Natasun Company**
-- ⚙️ I use daily: `.js`, `.html`, `.css`,`.psd`, `.ai`
-- 🌍 I'm mostly active within the **Discord Community**
-<!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [instagram.com/tohidshabanloo](https://instagram.com/tohidshabanloo)
-- ⚡️ Fun fact: I'm a huge fan of Muse
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
