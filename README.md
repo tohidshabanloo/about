@@ -178,14 +178,12 @@ Hi there , I am Tohid Shabanloo 😌
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+
 
 
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Tehran, Iran.
+#### I'm a Developer working in Tehran, Iran.
 
 ##### NOW
 
@@ -203,4 +201,8 @@ Hi there , I am Tohid Shabanloo 😌
 - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
 - 📫 Reach me: [instagram.com/tohidshabanloo](https://instagram.com/tohidshabanloo)
 - ⚡️ Fun fact: I'm a huge fan of Muse
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
