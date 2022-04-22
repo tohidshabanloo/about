@@ -1,6 +1,5 @@
-[![][banner-url]]
-[banner-url]: https://raw.githubusercontent.com/tohidshabanloo/backpacker/c9e1959c416719e2e9b4e2b69bdd29bee9481ce4/public/uploads/webUploads/backpacker.gif?token=AVJASQC6PUCKGW3ADRHLLXDCMMMGC
 
+<img src="https://raw.githubusercontent.com/tohidshabanloo/backpacker/c9e1959c416719e2e9b4e2b69bdd29bee9481ce4/public/uploads/webUploads/backpacker.gif?token=AVJASQC6PUCKGW3ADRHLLXDCMMMGC" alt="Coder GIF" width="500">
 ### Hi there 👋
 
 #### I'm a Newbie Developer working in Tehran, Iran.
