@@ -185,22 +185,22 @@ Hi there , I am Tohid Shabanloo 😌
 
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm a Full-Stack Developer working in Tehran, Iran.
 
 ##### NOW
 
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
+- ✨ Crafted last [backpacker](https://tohidsh.com) website;
+- 🇵🇹 Planing the "Netherlands";
 - 🍑 What about this?
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 🏢 I'm currently working at **Natasun Company**
+- ⚙️ I use daily: `.js`, `.html`, `.css`,`.psd`, `.ai`
+- 🌍 I'm mostly active within the **Discord Community**
+<!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 📫 Reach me: [instagram.com/tohidshabanloo](https://instagram.com/tohidshabanloo)
+- ⚡️ Fun fact: I'm a huge fan of Muse
 
