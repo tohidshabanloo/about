@@ -13,11 +13,11 @@
 
 - 🏢 I'm currently working at **Natasun Company**
 - ⚙️ I use daily: `.js`, `.html`, `.css`,`.psd`, `.ai`
-- 🌍 I'm mostly active within the **Discord Community**
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **react**, **Discord**, **development**, **design thinking**
+- 🌍 I'm mostly active within the **Backpackers Community**
+- 🌱 Learning all about **REACT**
+- 💬 Ping me about **design**, **react**, **discord**, **development**, **design thinking**
 - 📫 Reach me: [instagram.com/tohidshabanloo](https://instagram.com/tohidshabanloo)
-- ⚡️ Fun fact: I'm a huge fan of Muse
+- ⚡️ Fun fact: I'm a huge fan of Couchsurfing
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
