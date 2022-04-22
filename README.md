@@ -23,11 +23,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
   
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+<!--   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  
   <br/>
 
 
-✨<details>
+<details>
   
 📊 &nbsp;**This week I spent my time on**
 [![Anurag's GitHub stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=tohidshabanloo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
@@ -208,5 +209,5 @@ Hi there , I am Tohid Shabanloo 😌
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+</p> -->
 
