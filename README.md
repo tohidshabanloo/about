@@ -27,7 +27,7 @@
   <br/>
 
 
-<details>
+✨<details>
   
 📊 &nbsp;**This week I spent my time on**
 [![Anurag's GitHub stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=tohidshabanloo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
