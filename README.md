@@ -1,7 +1,7 @@
 
-
-<img src="https://raw.githubusercontent.com/tohidshabanloo/backpacker/c9e1959c416719e2e9b4e2b69bdd29bee9481ce4/public/uploads/webUploads/backpacker.gif?token=AVJASQFXNOBMGRS6IUGCQN3CMMNFU" alt="Coder GIF" width="500" align="center">
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/tohidshabanloo/backpacker/c9e1959c416719e2e9b4e2b69bdd29bee9481ce4/public/uploads/webUploads/backpacker.gif?token=AVJASQFXNOBMGRS6IUGCQN3CMMNFU" alt="Coder GIF" width="500">
+</p>
  
 
 ### Hi there 👋
