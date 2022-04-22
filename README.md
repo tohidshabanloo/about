@@ -19,7 +19,7 @@
 - ⚡️ Fun fact: I'm a huge fan of Couchsurfing
 
 <p align="center">
-<img src="https://gfycat.com/snivelingforsakenanole" alt="Coder GIF">
+<img src="https://ibb.co/wY1Jn9B" alt="Coder GIF">
 </p>
 
  
