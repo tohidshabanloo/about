@@ -5,7 +5,7 @@
   
 ```text
   
-Hi there , I am Faeze moradi 😌
+Hi there , I am Tohid Shabanloo 😌
   
 ```
   
@@ -14,9 +14,9 @@ Hi there , I am Faeze moradi 😌
 </div>
 
 
-<div  align="center" >
+<!-- <div  align="center" >
 <img align="top" alt="avatar" src="https://s4.uupload.ir/files/whatsapp_image_2021-10-17_at_1.05.31_am_ndqa.jpeg" width="250" height="250" />
-<br>
+<br> -->
  
    
    
