@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-#### I'm a Developer working in Tehran, Iran.
+#### I'm a Newbie Developer working in Tehran, Iran.
 
 ##### NOW
 
