@@ -23,7 +23,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
   
-  <summary><b>✨&nbsp;&nbsp;More&nbsp;Info</b></summary>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
 
