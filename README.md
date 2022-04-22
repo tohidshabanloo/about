@@ -23,7 +23,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
   
-<!--   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   
   <br/>
 
@@ -209,5 +209,5 @@ Hi there , I am Tohid Shabanloo 😌
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p> -->
+</p> 
 
