@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Natasun Company**
+- 🏢 I'm currently working for **Myself** 😎
 - ⚙️ I use daily: `.js`, `.html`, `.css`,`.psd`, `.ai`
 - 🌱 Learning all about **REACT**
 - 💬 Ping me about **design**, **react**, **discord**, **development**, **design thinking**
@@ -21,7 +21,6 @@
 <img src="https://www.tohidsh.com/static/gifs/backpacker.gif" alt="Coder GIF">
 </p>
 
- 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
