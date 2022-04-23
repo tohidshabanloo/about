@@ -6,13 +6,13 @@
 
 - ✨ Crafted last [backpacker](https://tohidsh.com) website;
 - 🇳🇱 Planing the "Netherlands";
+- 🌍 Countries i visited 🇮🇷 🇳🇱 🇨🇭 🇮🇹 🇮🇶 🇱🇺 🇲🇾 🇹🇷 🇹🇭 🇨🇵 🇨🇳 🇧🇪
 - 🍑 What about this?
 
 ##### BIO
 
 - 🏢 I'm currently working at **Natasun Company**
 - ⚙️ I use daily: `.js`, `.html`, `.css`,`.psd`, `.ai`
-- 🌍 Countries that i visited **Backpackers Community**
 - 🌱 Learning all about **REACT**
 - 💬 Ping me about **design**, **react**, **discord**, **development**, **design thinking**
 - 📫 Reach me: [instagram.com/tohidshabanloo](https://instagram.com/tohidshabanloo)
