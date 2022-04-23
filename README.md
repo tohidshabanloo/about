@@ -16,7 +16,7 @@
 - 🌱 Learning all about **REACT**
 - 💬 Ping me about **design**, **react**, **discord**, **development**, **design thinking**
 - 📫 Reach me: [instagram.com/tohidshabanloo](https://instagram.com/tohidshabanloo)
-- ⚡️ Fun fact: I'm a huge fan of Traveling 🧳
+- ⚡️ Fact: I'm a huge fan of Traveling 🧳
 
 <p align="center">
 <img src="https://www.tohidsh.com/static/gifs/backpacker.gif" alt="Coder GIF">
