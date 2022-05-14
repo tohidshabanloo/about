@@ -1,6 +1,6 @@
 ### Hi there 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tohidshabanloo)
 #### I'm a *Newbie Developer* working in Tehran, Iran.
-
+<figure><embed src="https://wakatime.com/share/@tohidshabanloo/831b1517-9b9e-42b1-b602-aa9f62836fa7.svg"></embed></figure>
 ##### NOW
 
 - ✨ Crafted last [backpacker](https://tohidsh.com) website;
@@ -24,4 +24,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-<figure><embed src="https://wakatime.com/share/@tohidshabanloo/831b1517-9b9e-42b1-b602-aa9f62836fa7.svg"></embed></figure>
+
