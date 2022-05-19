@@ -3,7 +3,7 @@
 
 ##### NOW
 
-- ✨ Crafted last [backpacker](https://tohidsh.com) website before=>[kafka.ir](https://kafka.ir) ;
+- ✨ Crafted last [backpacker](https://tohidsh.com) website and [kafka](https://kafka.ir) - [natasun](https://natasun.com) ;
 - 🇳🇱 Planing the "Netherlands";
 - 🌍 Countries i visited 🇮🇷 🇳🇱 🇨🇭 🇮🇹 🇷🇺 🇮🇶 🇱🇺 🇲🇾 🇹🇷 🇹🇭 🇨🇵 🇨🇳 🇧🇪 🇩🇪
 - 🍑 What about this?
