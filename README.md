@@ -7,7 +7,7 @@
 - 🇳🇱 Planing the "Netherlands";
 - 🌍 Countries i visited 🇮🇷 🇳🇱 🇨🇭 🇮🇹 🇷🇺 🇮🇶 🇱🇺 🇲🇾 🇹🇷 🇹🇭 🇨🇵 🇨🇳 🇧🇪 🇩🇪
 - 🍑 What about this?
-
+🇩🇪
 ##### BIO
 
 - 🏢 I'm currently working for **Myself** 😎
