@@ -5,7 +5,7 @@
 
 - ✨ Crafted last [Raikart](https://Raikart.vercel.app/)-[YogaLife](https://yogalife.vercel.app/)-[BebinKharid](https://bebinkharid.vercel.app/)-[backpacker](https://tohidsh.com)- [kafka](https://kafka.ir) - [natasun](https://natasun.com) ;
 - 🇳🇱 Planing the "Netherlands";
-- 🌍 Countries i visited 🇮🇷 🇳🇱 🇨🇭 🇮🇹 🇷🇺 🇮🇶 🇱🇺 🇲🇾 🇹🇷 🇹🇭 🇨🇵 🇨🇳 🇧🇪 🇩:flag_de: 
+- 🌍 Countries i visited 🇮🇷 🇳🇱 🇨🇭 🇮🇹 🇷🇺 🇮🇶 🇱🇺 🇲🇾 🇹🇷 🇹🇭 🇨🇵 🇨🇳 🇧🇪 🇩🇪
 - 🍑 What about this?
 
 ##### BIO
