@@ -5,9 +5,9 @@
 
 - ✨ Crafted last [Raikart](https://Raikart.vercel.app/)-[YogaLife](https://yogalife.vercel.app/)-[BebinKharid](https://bebinkharid.vercel.app/)-[backpacker](https://tohidsh.com)- [kafka](https://kafka.ir) - [natasun](https://natasun.com) ;
 - 🇳🇱 Planing the "Netherlands";
-- 🌍 Countries i visited 🇮🇷 🇳🇱 🇨🇭 🇮🇹 🇷🇺 🇮🇶 🇱🇺 🇲🇾 🇹🇷 🇹🇭 🇨🇵 🇨🇳 🇧🇪 🇩🇪
+- 🌍 Traveling around the world
 - 🍑 What about this?
-🇩🇪
+
 ##### BIO
 
 - 🏢 I'm currently working for **Myself** 😎
