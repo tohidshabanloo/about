@@ -8,7 +8,7 @@
 - 🌍 Traveling around the world
 - 🍑 What about this?
 
-##### BIO
+##### BIO:
 
 - 🏢 I'm currently working for **Myself** 😎
 - ⚙️ I use daily: `.js`, `.html`, `.css`,`.psd`, `.ai`
