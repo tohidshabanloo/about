@@ -3,7 +3,7 @@
 
 ##### NOW:
 
-- ✨ Crafted last [Raikart](https://Raika.vercel.app/)-[SupabaseBlog](https://backpacker-supabase.vercel.app/)-[BebinKharid](https://bebinkharid.vercel.app/)-[backpacker](https://tohidsh.com)- [kafka](https://kafka.ir) - [natasun](https://natasun.com) ;
+- ✨ Crafted last [ZKdiet](https://zkdiet.vercel.app/)-[Raikart](https://Raika.vercel.app/)-[SupabaseBlog](https://backpacker-supabase.vercel.app/)-[BebinKharid](https://bebinkharid.vercel.app/)-[backpacker](https://tohidsh.com)- [kafka](https://kafka.ir) - [natasun](https://natasun.com) ;
 - 🇳🇱 Planing the "Netherlands";
 - 🌍 Traveling around the world
 - 🍑 What about this?
