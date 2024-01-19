@@ -1,14 +1,14 @@
 ### Hi there 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tohidshabanloo)
 #### I'm a *Newbie Developer* working in Tehran, Iran
 
-##### NOW:
+##### NOW
 
 - ✨ Crafted last [ZKdiet](https://zkdiet.vercel.app/)-[Raikart](https://Raika.vercel.app/)-[SupabaseBlog](https://backpacker-supabase.vercel.app/)-[BebinKharid](https://bebinkharid.vercel.app/)-[backpacker](https://tohidsh.com)- [kafka](https://kafka.ir) - [natasun](https://natasun.com) ;
 - 🇳🇱 Planing the "Netherlands";
 - 🌍 Traveling around the world
 - 🍑 What about this?
 
-##### BIO:
+##### BIO
 
 - 🏢 I'm currently working for **Myself** 😎
 - ⚙️ I use daily: `.js`, `.html`, `.css`,`.psd`, `.ai`
